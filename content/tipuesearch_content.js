@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '計算機程式: \n https://mde.tw/cp2020 \n 電腦輔助設計實習: \n https://mde.tw/cad2020 \xa0 \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '計算機程式: \n https://mde.tw/cp2020 \n cp 教學影片 \n 電腦輔助設計實習: \n https://mde.tw/cad2020 \xa0 \n cad 教學影片 \n', 'tags': '', 'url': 'About.html'}, {'title': 'Wink', 'text': 'https://www.debugmode.com/wink/ \xa0 \n 下載可攜 Wink 3.0.7z', 'tags': '', 'url': 'Wink.html'}]};
