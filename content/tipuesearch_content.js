@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '計算機程式: \n https://mde.tw/cp2020 \n 電腦輔助設計實習: \n https://mde.tw/cad2020 \xa0 \n', 'tags': '', 'url': 'About.html'}]};
